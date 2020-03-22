@@ -39,7 +39,7 @@ def list_of_directors(source)
 end
 
 def total_gross(source)
-  total_gross = {}
+  total_gross = 0
   index = 0
 
   while index < source.length do
