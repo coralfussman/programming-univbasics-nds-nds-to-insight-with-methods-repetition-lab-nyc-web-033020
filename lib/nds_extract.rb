@@ -52,7 +52,7 @@ def total_gross(source)
       index += 1
   end
   total_gross
-  end
+end
   # Write this implementation
   #
   # Should use methods:
